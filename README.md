@@ -41,7 +41,7 @@ The dashboard includes the following key insights and visuals:
 
 ##  Key Takeaways
 
-- Countries like China and France lead in mission numbers and investment.
+- Countries like China and UK lead in mission numbers and investment.
 - Space technology is diversifying: AI and Solar Propulsion are growing.
 - Average success rate is steady (~75%) despite increasing budgets.
 
