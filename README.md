@@ -31,7 +31,7 @@ The dashboard includes the following key insights and visuals:
 
 ## 📷 Screenshot
 
-![Dashboard Screenshot](Screenshot%202025-06-03%20192638.png)
+![Dashboard Screenshot](https://github.com/sanika-cs/-Space-Exploration-Tableau-Dashboard/blob/main/Screenshot%202025-06-11%20210530.png)
 
 ## 🧰 Tools Used
 
@@ -58,7 +58,4 @@ The dashboard includes the following key insights and visuals:
 ## 📌 Author
 
 👩‍💻 Sanika C S  
-MSc Mathematics | Data Science Enthusiast  
-📫 [LinkedIn Profile](https://www.linkedin.com/in/YOUR-USERNAME)
 
-## 🏷️ Tags
